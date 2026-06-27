@@ -16,7 +16,7 @@ UAVSwarmV2 在初代 UAVSwarm 基础上进行了全面升级，针对**低空无
 | 版本 | 说明 | 适用任务 | 下载链接 |
 |:---|:---|:---|:---|
 | **MOT** | 多目标跟踪标注 | 多目标跟踪 | [UAVSwarmV2_MOT.zip](https://pan.baidu.com/s/1_XDA7Tu-5KsO25fJhHN8UQ?pwd=vth5) |
-| **YOLO** | YOLO 格式检测标签） | 目标检测  | [UAVSwarmV2_YOLO.zip](https://pan.baidu.com/s/1lZWlhXNZ1gPyH0hDO3sRwA?pwd=ppn7) |
+| **YOLO** | YOLO 格式检测标签 | 目标检测  | [UAVSwarmV2_YOLO.zip](https://pan.baidu.com/s/1lZWlhXNZ1gPyH0hDO3sRwA?pwd=ppn7) |
 | **Video** | 原始视频序列 | 视频分析 | [UAVSwarmV2_videos.zip](https://pan.baidu.com/s/1z7EEfOocUIzsJMerYtJ3jg?pwd=md3m) |
 
 
